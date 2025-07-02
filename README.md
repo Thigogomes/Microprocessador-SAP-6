@@ -4,6 +4,7 @@ Trabalho em grupo de Arquitetura de Computadores 1, Puc Minas.
 *Integrantes:
 
 Heitor Viana Bastos
+
 Rafael Fonseca Cairicatti Bezerira
 Thiago Henrique Gomes Feliciano
 Yasmin Torres Moreira dos Santos
